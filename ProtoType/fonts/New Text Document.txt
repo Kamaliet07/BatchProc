@@ -1,0 +1,5 @@
+glyphicons-halflings-regular.eot
+glyphicons-halflings-regular
+glyphicons-halflings-regular
+glyphicons-halflings-regular.woff
+glyphicons-halflings-regular.woff2

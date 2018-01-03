@@ -1,0 +1,1 @@
+Created Repository for the providing solution of Palindrome and simplification of method.
